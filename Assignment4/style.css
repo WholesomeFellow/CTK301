@@ -1,0 +1,55 @@
+body {
+    font: arial; 
+    background-image: url("Oh\ My\ God.jpg"); 
+    background-size: cover; 
+    background-position: center center; 
+    background-attachment: fixed; 
+    background-repeat: no-repeat; 
+}
+p {
+    color: white;
+}
+ul {
+   color: white;
+}
+.center {
+    text-align: center;
+}
+.justify {
+    text-align: justify;
+}
+.imgbox {
+    border: 10px solid black;
+    padding: 10px;
+    background-color: yellow;
+}
+h1 {
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+h2 {
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+h3 {
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+h4 {
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+h5 {
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+h6 {
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
