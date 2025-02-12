@@ -40,7 +40,7 @@ h2 {
     padding-bottom: 20px;
     margin-bottom: 40px;
   }
-#Main {
+main {
     border-top: 1px solid white;
     border-bottom: 1px solid white;
     border-right: 1px solid white;
@@ -49,11 +49,11 @@ h2 {
     text-align: justify;
     padding: 15px;
 }
-#Main a {
+main a {
    text-decoration: none;
    font-weight: bold;
 }
-#Main a:hover {
+main a:hover {
     color: red;
     text-decoration: underline;
 }
