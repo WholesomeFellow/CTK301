@@ -1,0 +1,14 @@
+#float_right {
+    float: right;
+    border: solid 2px blue;
+    margin-left: 12px;
+    margin-bottom: 12px;
+}
+aside {
+    margin: 0px;
+}
+main {
+    grid-column: span 8;
+    margin-right: 12px;
+    margin-left: 12px;
+    }
