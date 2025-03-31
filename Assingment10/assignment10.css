@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(53, 53, 53);
+    font-family: 'Times New Roman', Arial, serif;
+}
+#wrapper {
+    margin: 1em auto;
+    width: 960px;
+    border: solid 6px rgb(25, 25, 25);;
+    background-color: #ffffff;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    column-gap: 12px;
+}
+
+header {
+    grid-column: span 12;
+    background-color: rgb(40, 40, 40);
+    color: white;
+    padding-left: 12px;
+    margin-bottom: 0;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 12px;
+
+}
+
+nav {
+    grid-column:  span 12;
+}
+nav ul {
+    margin-left: -29px;
+    display: flex;
+}
+nav li {
+    display: inline-block;
+    list-style: none;
+}
+
+nav li a {
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    width: 175px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    background-color: rgb(40, 40, 40);
+    margin-right: 6px;
+    color: white
+}
+nav li a:hover {
+    background-color: rgb(20,20,20);
+}
+nav li a:active {
+    background-color: black;
+}
+.final {
+width: 165px;
+height: 48px;
+padding-left: -6px;
+background-color: rgb(40, 40, 40);
+}
+main {
+    grid-column: span 12;
+    margin-right: 12px;
+    margin-left: 12px;
+}
+
+footer {
+    grid-column: span 12;
+    background-color: rgb(40, 40, 40);
+    color: white;
+    padding-left: 12px;
+}

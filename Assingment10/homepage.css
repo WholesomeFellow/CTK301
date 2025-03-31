@@ -1,0 +1,18 @@
+
+#about {
+    border-bottom: solid 3px black;
+    padding-left: 12px;
+}
+main {
+    margin-top: -18px;
+}
+#home {
+    float: left;
+    margin-right: 12px;
+    margin-left: 12px;
+    margin-bottom: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 250px;
+}
