@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    margin-top: 8px;
+}
+.title {
+margin-left: 12px;
+margin-top: -16px;
+}
+h2 {
+    border-bottom: solid 3px rgb(40,40,40);
+    width: 390px;
+}
+#bug {
+    width:360px;
+    margin-top: 40px;
+}
+#contributions-bug {
+    margin-top: 40px;
+}
+.project {
+    width:200px;
+    margin-left: 17px;
+}
+.text {
+    margin-right: 12px;
+    margin-left: -390px;
+    margin-top: 60px;
+    width: 400px;
+    height: 150px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 12px;
+    color: white;
+    background: rgb(40, 40, 40);
+    border: solid 4px rgb(102, 101, 101);
+}
+.contributions {
+    margin-top: 28px;
+    margin-left: 24px;
+    margin-right: 12px;
+}
