@@ -1,0 +1,47 @@
+#myCarousel {
+    grid-column: span 12;
+    margin-top: -16px;
+    margin-bottom: -30px;
+      }
+#myCarousel .f-carousel__slide {
+    text-align: center;
+  }
+
+.f-carousel__dots {
+    display: none
+}
+.f-button {
+    display: none;
+}
+.swag {
+    width: 100%
+}
+
+main {
+    margin-top: 36px
+}
+#about {
+    border-top: solid 3px rgb(102, 101, 101);
+    border-bottom: solid 3px rgb(102, 101, 101);
+    background-color: rgb(40, 40, 40);
+    color: white;
+    text-align: center;
+    margin-top: -10px;
+    width: 960px;
+    margin-left: -12px;
+}
+#me {
+    text-align: justify;
+    color: white;
+    background: rgb(40, 40, 40);
+    border: solid 4px rgb(102, 101, 101);
+    padding: 12px;
+    border-radius: 10px;
+}
+#side { 
+float: left;
+margin-right: 12px;
+margin-left: 12px;
+padding: 6px;
+width:150px;
+}
