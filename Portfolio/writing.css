@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    margin-top: 8px;
+}
+.title {
+margin-left: 12px;
+margin-top: -15px;
+}
+h2 {
+    border-bottom: solid 3px rgb(40,40,40);
+    width: 480px;
+}
+.ian {
+    width: auto;
+    height: 145px;
+    margin-top: 60px;
+    border: solid 3px rgb(40,40,40);
+}
+.wall {
+    width: auto;
+    height: 145px;
+    margin-top: 60px;
+    border: solid 3px rgb(40,40,40);
+}
+.text {
+    margin-right: 24px;
+    margin-left: -480px;
+    margin-top: 60px;
+    width: 450px;
+    height: auto;
+    padding: 12px;
+    padding-top: 0px;
+    text-align: justify;
+    color: white;
+    background: rgb(19, 30, 78);
+    border: solid 4px rgb(255, 255, 255);
+    border-radius: 10px;
+}
